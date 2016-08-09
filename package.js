@@ -2,7 +2,7 @@ Package.describe({
   name: 'patsvc:accounts-bluemix',
   summary: "Login service for Bluemix accounts",
   version: "1.0.4",
-  git: 'https://github.com/oneibmcloud/accounts-bluemix.git'
+  git: 'https://github.com/patsvc/accounts-bluemix.git'
 });
 
 Package.onUse(function(api) {
