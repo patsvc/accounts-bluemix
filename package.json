@@ -1,6 +1,6 @@
 {
   "name": "accounts-bluemix",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Login service for Bluemix accounts",
   "main": "index.js",
   "scripts": {
